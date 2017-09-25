@@ -3,7 +3,7 @@
 /***** Github : https://github.com/bhavanpatel *****/
 /****** About : https://about.me/bhavan.patel ******/
 /***************************************************/
- // 'use strict';
+'use strict';
 
 import React, {Component} from 'react';
 const PropTypes = require('prop-types');

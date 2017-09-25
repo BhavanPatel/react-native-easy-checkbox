@@ -19,7 +19,7 @@
     "checkbox",
     "selectbox",
     "CheckBox",
-    "MultiChoice",
+    "MultiChoice"
   ],
   "author": "Bhavan Patel",
   "license": "MIT",
@@ -30,5 +30,5 @@
   "dependencies": {
     "native-base": "2.3.1",
     "react-native-vector-icons": "4.3.0"
-  },
+  }
 }
