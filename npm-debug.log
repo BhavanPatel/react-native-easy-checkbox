@@ -13,23 +13,23 @@
 7 silly cache add   rawSpec: '.',
 7 silly cache add   spec: '/Users/maple/Desktop/react-native-checkbox',
 7 silly cache add   type: 'directory' }
-8 verbose addLocalDirectory /Users/maple/.npm/react-native-checkbox/1.0.0/package.tgz not in flight; packing
+8 verbose addLocalDirectory /Users/maple/.npm/react-native-simple-checkbox/1.0.0/package.tgz not in flight; packing
 9 verbose correctMkdir /Users/maple/.npm correctMkdir not in flight; initializing
-10 info lifecycle react-native-checkbox@1.0.0~prepublish: react-native-checkbox@1.0.0
-11 silly lifecycle react-native-checkbox@1.0.0~prepublish: no script for prepublish, continuing
-12 info lifecycle react-native-checkbox@1.0.0~prepare: react-native-checkbox@1.0.0
-13 silly lifecycle react-native-checkbox@1.0.0~prepare: no script for prepare, continuing
-14 verbose tar pack [ '/Users/maple/.npm/react-native-checkbox/1.0.0/package.tgz',
+10 info lifecycle react-native-simple-checkbox@1.0.0~prepublish: react-native-simple-checkbox@1.0.0
+11 silly lifecycle react-native-simple-checkbox@1.0.0~prepublish: no script for prepublish, continuing
+12 info lifecycle react-native-simple-checkbox@1.0.0~prepare: react-native-simple-checkbox@1.0.0
+13 silly lifecycle react-native-simple-checkbox@1.0.0~prepare: no script for prepare, continuing
+14 verbose tar pack [ '/Users/maple/.npm/react-native-simple-checkbox/1.0.0/package.tgz',
 14 verbose tar pack   '/Users/maple/Desktop/react-native-checkbox' ]
-15 verbose tarball /Users/maple/.npm/react-native-checkbox/1.0.0/package.tgz
+15 verbose tarball /Users/maple/.npm/react-native-simple-checkbox/1.0.0/package.tgz
 16 verbose folder /Users/maple/Desktop/react-native-checkbox
-17 verbose addLocalTarball adding from inside cache /Users/maple/.npm/react-native-checkbox/1.0.0/package.tgz
+17 verbose addLocalTarball adding from inside cache /Users/maple/.npm/react-native-simple-checkbox/1.0.0/package.tgz
 18 verbose correctMkdir /Users/maple/.npm correctMkdir not in flight; initializing
-19 silly cache afterAdd react-native-checkbox@1.0.0
-20 verbose afterAdd /Users/maple/.npm/react-native-checkbox/1.0.0/package/package.json not in flight; writing
+19 silly cache afterAdd react-native-simple-checkbox@1.0.0
+20 verbose afterAdd /Users/maple/.npm/react-native-simple-checkbox/1.0.0/package/package.json not in flight; writing
 21 verbose correctMkdir /Users/maple/.npm correctMkdir not in flight; initializing
-22 verbose afterAdd /Users/maple/.npm/react-native-checkbox/1.0.0/package/package.json written
-23 silly publish { name: 'react-native-checkbox',
+22 verbose afterAdd /Users/maple/.npm/react-native-simple-checkbox/1.0.0/package/package.json written
+23 silly publish { name: 'react-native-simple-checkbox',
 23 silly publish   version: '1.0.0',
 23 silly publish   description: 'Simple CheckBox for react-native',
 23 silly publish   main: 'index.js',
@@ -53,51 +53,51 @@
 23 silly publish   bugs: { url: 'https://github.com/BhavanPatel/react-native-checkbox/issues' },
 23 silly publish   homepage: 'https://github.com/BhavanPatel/react-native-checkbox#readme',
 23 silly publish   dependencies: { 'native-base': '2.3.1', 'react-native-vector-icons': '4.3.0' },
-23 silly publish   readme: '# react-native-checkbox\n\nSimple CheckBox for react-native\n',
+23 silly publish   readme: '# react-native-simple-checkbox\n\nSimple CheckBox for react-native\n',
 23 silly publish   readmeFilename: 'README.md',
-23 silly publish   gitHead: '70487c0b289dff6a4604e2a16bc9e9bd65a1d5b4',
-23 silly publish   _id: 'react-native-checkbox@1.0.0',
-23 silly publish   _shasum: '38098d2ba504ec4654e4ee39b65556c6f5f7a743',
+23 silly publish   gitHead: 'b93ee47070b5eb6fd24b9f08a9f3fb31d4e454de',
+23 silly publish   _id: 'react-native-simple-checkbox@1.0.0',
+23 silly publish   _shasum: '43d3a01dfce4c138a9bf6feda322ef3e5f221af2',
 23 silly publish   _from: '.' }
-24 info lifecycle react-native-checkbox@1.0.0~prepublishOnly: react-native-checkbox@1.0.0
-25 silly lifecycle react-native-checkbox@1.0.0~prepublishOnly: no script for prepublishOnly, continuing
+24 info lifecycle react-native-simple-checkbox@1.0.0~prepublishOnly: react-native-simple-checkbox@1.0.0
+25 silly lifecycle react-native-simple-checkbox@1.0.0~prepublishOnly: no script for prepublishOnly, continuing
 26 verbose getPublishConfig undefined
-27 silly mapToRegistry name react-native-checkbox
+27 silly mapToRegistry name react-native-simple-checkbox
 28 silly mapToRegistry using default registry
 29 silly mapToRegistry registry https://registry.npmjs.org/
 30 silly mapToRegistry data Result {
-30 silly mapToRegistry   raw: 'react-native-checkbox',
+30 silly mapToRegistry   raw: 'react-native-simple-checkbox',
 30 silly mapToRegistry   scope: null,
-30 silly mapToRegistry   escapedName: 'react-native-checkbox',
-30 silly mapToRegistry   name: 'react-native-checkbox',
+30 silly mapToRegistry   escapedName: 'react-native-simple-checkbox',
+30 silly mapToRegistry   name: 'react-native-simple-checkbox',
 30 silly mapToRegistry   rawSpec: '',
 30 silly mapToRegistry   spec: 'latest',
 30 silly mapToRegistry   type: 'tag' }
-31 silly mapToRegistry uri https://registry.npmjs.org/react-native-checkbox
+31 silly mapToRegistry uri https://registry.npmjs.org/react-native-simple-checkbox
 32 verbose publish registryBase https://registry.npmjs.org/
-33 silly publish uploading /Users/maple/.npm/react-native-checkbox/1.0.0/package.tgz
-34 verbose request uri https://registry.npmjs.org/react-native-checkbox
+33 silly publish uploading /Users/maple/.npm/react-native-simple-checkbox/1.0.0/package.tgz
+34 verbose request uri https://registry.npmjs.org/react-native-simple-checkbox
 35 verbose request sending authorization for write operation
-36 info attempt registry request try #1 at 11:23:50 AM
+36 info attempt registry request try #1 at 11:25:47 AM
 37 verbose request using bearer token for auth
-38 verbose request id 43de76657d5a25c9
-39 http request PUT https://registry.npmjs.org/react-native-checkbox
-40 http 403 https://registry.npmjs.org/react-native-checkbox
+38 verbose request id 0b952ab49c7c947b
+39 http request PUT https://registry.npmjs.org/react-native-simple-checkbox
+40 http 403 https://registry.npmjs.org/react-native-simple-checkbox
 41 verbose headers { 'content-type': 'application/json',
 41 verbose headers   'cache-control': 'max-age=300',
-41 verbose headers   'content-length': '115',
+41 verbose headers   'content-length': '122',
 41 verbose headers   'accept-ranges': 'bytes',
-41 verbose headers   date: 'Mon, 25 Sep 2017 05:53:51 GMT',
+41 verbose headers   date: 'Mon, 25 Sep 2017 05:55:49 GMT',
 41 verbose headers   via: '1.1 varnish',
 41 verbose headers   connection: 'keep-alive',
-41 verbose headers   'x-served-by': 'cache-hhn1528-HHN',
+41 verbose headers   'x-served-by': 'cache-ams4422-AMS',
 41 verbose headers   'x-cache': 'MISS',
 41 verbose headers   'x-cache-hits': '0',
-41 verbose headers   'x-timer': 'S1506318831.695853,VS0,VE936',
+41 verbose headers   'x-timer': 'S1506318949.542437,VS0,VE599',
 41 verbose headers   vary: 'Accept-Encoding, Accept' }
-42 verbose request invalidating /Users/maple/.npm/registry.npmjs.org/react-native-checkbox on PUT
+42 verbose request invalidating /Users/maple/.npm/registry.npmjs.org/react-native-simple-checkbox on PUT
 43 error publish Failed PUT 403
-44 verbose stack Error: You do not have permission to publish "react-native-checkbox". Are you logged in as the correct user? : react-native-checkbox
+44 verbose stack Error: You do not have permission to publish "react-native-simple-checkbox". Are you logged in as the correct user? : react-native-simple-checkbox
 44 verbose stack     at makeError (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:302:12)
 44 verbose stack     at CachingRegistryClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:290:14)
 44 verbose stack     at Request._callback (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:210:14)
@@ -109,14 +109,14 @@
 44 verbose stack     at Request.emit (events.js:188:7)
 44 verbose stack     at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1001:12)
 45 verbose statusCode 403
-46 verbose pkgid react-native-checkbox
+46 verbose pkgid react-native-simple-checkbox
 47 verbose cwd /Users/maple/Desktop/react-native-checkbox
 48 error Darwin 16.7.0
 49 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "publish"
 50 error node v7.4.0
 51 error npm  v4.0.5
 52 error code E403
-53 error You do not have permission to publish "react-native-checkbox". Are you logged in as the correct user? : react-native-checkbox
+53 error You do not have permission to publish "react-native-simple-checkbox". Are you logged in as the correct user? : react-native-simple-checkbox
 54 error If you need help, you may report this error at:
 54 error     <https://github.com/npm/npm/issues>
 55 verbose exit [ 1, true ]

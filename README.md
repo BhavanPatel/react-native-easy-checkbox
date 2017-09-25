@@ -1,3 +1,3 @@
-# react-native-simple-checkbox
+# react-native-checkbox
 
 Simple CheckBox for react-native
