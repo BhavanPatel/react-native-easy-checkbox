@@ -1,5 +1,5 @@
 {
-  "name": "react-native-checkbox",
+  "name": "react-native-simple-checkbox",
   "version": "1.0.0",
   "description": "Simple CheckBox for react-native",
   "main": "index.js",
