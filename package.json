@@ -1,6 +1,6 @@
 {
   "name": "react-native-checkbox",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple CheckBox for react-native",
   "main": "index.js",
   "scripts": {
