@@ -4,7 +4,6 @@
   "description": "Simple CheckBox for react-native",
   "main": "index.js",
   "scripts": {
-    "prestart": "npm install && react-native-link",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

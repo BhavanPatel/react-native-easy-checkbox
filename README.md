@@ -9,5 +9,34 @@ Simple CheckBox for react-native
 ## Installation in project
 
 ```bash
-npm install react-native-easy-checkbox --save && react-native link
+npm install react-native-easy-checkbox --save
+
+react-native link react-native-vector-icons
 ```
+
+## Example
+##### [Example here](https://github.com/BhavanPatel/react-native-checkbox/tree/master/Example)
+
+
+## Sample usage
+```javascript
+
+import CheckBox from 'react-native-easy-checkbox';
+
+```
+```html
+<CheckBox name="name1" checked={true} onChange={(value) => this._onChangeValue(value)}/>
+```
+
+## Configuration
+
+Checkbox component all Configuration.
+
+| Props | Option | Default  | Description  |
+| ------ | ------ | ------ | ------ |
+| name | String |checkbox | Name of checbox |
+| checked | Boolean |true | State of checkbox |
+| checkBoxTrueStyle | Array or Object | - | Style for True Checkbox container |
+| checkBoxFalseStyle | Array or Object | - | Style for False Checkbox container |
+| checkIconStyle |  Array or Object | - | Style for Checkbox |
+| onChange | Function | - | On touch of checkbox returns state of checkbox |
