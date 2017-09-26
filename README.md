@@ -1,10 +1,10 @@
 # react-native-easy-checkbox
 [![NPM version](https://img.shields.io/npm/v/react-native-easy-checkbox.svg)](https://www.npmjs.com/package/react-native-easy-checkbox)
 
+[![npm](https://img.shields.io/npm/dw/react-native-easy-checkbox.svg)](https://github.com/BhavanPatel/react-native-easy-checkbox)
+
 [![GitHub issues](https://img.shields.io/github/issues/BhavanPatel/react-native-easy-checkbox.svg)](https://github.com/BhavanPatel/react-native-easy-checkbox/issues)
-
 [![GitHub forks](https://img.shields.io/github/forks/BhavanPatel/react-native-easy-checkbox.svg)](https://github.com/BhavanPatel/react-native-easy-checkbox/network)
-
 [![GitHub stars](https://img.shields.io/github/stars/BhavanPatel/react-native-easy-checkbox.svg)](https://github.com/BhavanPatel/react-native-easy-checkbox/stargazers)
 
 [![NPM](https://nodei.co/npm/react-native-easy-checkbox.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-easy-checkbox/)
